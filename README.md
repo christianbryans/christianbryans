@@ -1,11 +1,7 @@
 # 💫 About Me:
 🎯 Product Designer & Front-End Developer<br>🎓 Information Systems @ Telkom University<br>🚀 Crafting scalable digital products with Figma, React & Next.js<br>🏆 National UI/UX, AI Tech & Business Innovation Competition Winner<br>🔍 Passionate about solving real problems with design & code
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianbryans/christianbryans/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianbryans/christianbryans/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/christianbryans/christianbryans/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/christianbryans/christianbryans/output/snake.svg" alt="Snake animation" />
 
 ###
 
