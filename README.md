@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 🎯 Product Designer & Front-End Developer<br>🎓 Information Systems @ Telkom University<br>🚀 Crafting scalable digital products with Figma, React & Next.js<br>🏆 10+ National UI/UX, AI Tech & Business Innovation Competition Winner<br>🔍 Passionate about solving real problems with design & code
 
 ## 🌐 Socials:
